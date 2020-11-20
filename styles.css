@@ -1,0 +1,62 @@
+body{
+  font-family: "Montserrat";
+}
+.nav-link{
+  text-align: center;
+}
+.carousel-item {
+  padding: 20%;
+  font-family: 'Merriweather', sans-serif;
+  background-size: cover;
+  background-position: center;
+}
+em{
+  margin: 20px;
+}
+.container{
+  padding: 0 20px;
+  font-family: 'Merriweather';
+}
+.carousel-inner{
+  color: #fff;
+  text-align: center;
+  line-height: 2rem;
+}
+#Services{
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Montserrat'
+}
+.service-logo{
+  color: #0f3460;
+  padding-bottom: 1rem;
+}
+.service-logo:hover{
+  color: #07689f;
+}
+.row{
+  padding: 70px 70px 100px;
+  line-height: 1.5rem;
+  font-family: 'Merriweather';
+}
+p{
+  color: grey;
+}
+#Contact{
+background-color: #0f3460;
+color: #fff;
+padding: 7%;
+font-family: 'Merriweather';
+text-align: center;
+}
+.btn{
+  margin: 2rem;
+}
+footer{
+  text-align: center;
+  padding: 7% 15%;
+  font-family: 'Merriweather'
+}
+.logo{
+  padding: 10px
+}

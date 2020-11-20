@@ -1,0 +1,9 @@
+body{
+  background-color: #00b7c2;
+  color: #fff;
+  font-family: 'Ubuntu'
+}
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
